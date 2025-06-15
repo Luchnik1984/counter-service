@@ -21,8 +21,7 @@ out/
 *.iws
 *.iml
 *.ipr
-.idea/
-out/
+
 
 ### NetBeans ###
 /nbproject/private/
